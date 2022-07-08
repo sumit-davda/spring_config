@@ -1,0 +1,4 @@
+my:
+  greeting: welcome to GL
+  list:
+    values: apple,mango,banana
